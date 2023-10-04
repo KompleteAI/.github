@@ -21,3 +21,9 @@ success.
 If you're an engineer, I'd appreciate it if you could pass
 along [my LinkedIn](https://www.linkedin.com/in/boriszubarev/) or [website](https://komplete.framer.ai/) to your
 manager.
+
+## Models
+
+| **HuggingFace Hub** | **7B**                                                 | **7B-GPTQ**                                                        |
+|---------------------|--------------------------------------------------------|--------------------------------------------------------------------|
+| **Shurale-v1**      | [Link](https://huggingface.co/KompleteAI/Shurale7B-v1) | [Link](https://huggingface.co/KompleteAI/Shurale7B-v1-GPTQ) |
